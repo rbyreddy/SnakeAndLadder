@@ -1,14 +1,26 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="9fb64ca8-3cca-4a6c-abbb-3448629732d6" name="Changes" comment="" />
+    <list default="true" id="9fb64ca8-3cca-4a6c-abbb-3448629732d6" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/src/snakenladder/StartingPosition.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/snakenladder/StartingPosition.java" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
   </component>
   <component name="ProjectId" id="2GGabDiHSX0jh9DoDfqaYhDolSz" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
@@ -22,7 +34,7 @@
     "RunOnceActivity.ShowReadmeOnStart": "true"
   }
 }]]></component>
-  <component name="RunManager">
+  <component name="RunManager" selected="Application.StartingPosition">
     <configuration name="DisplayMessage" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="snakenladder.DisplayMessage" />
       <module name="SnakeAndLadder" />
@@ -36,8 +48,22 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="StartingPosition" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="snakenladder.StartingPosition" />
+      <module name="SnakeAndLadder" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="snakenladder.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.StartingPosition" />
         <item itemvalue="Application.DisplayMessage" />
       </list>
     </recent_temporary>
@@ -52,5 +78,16 @@
       <updated>1666017445439</updated>
     </task>
     <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
   </component>
 </project>
